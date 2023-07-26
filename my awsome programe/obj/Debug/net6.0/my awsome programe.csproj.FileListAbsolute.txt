@@ -1,0 +1,15 @@
+C:\Users\erikd\Desktop\my awsome programe\bin\Debug\net6.0\my awsome programe.exe
+C:\Users\erikd\Desktop\my awsome programe\bin\Debug\net6.0\my awsome programe.deps.json
+C:\Users\erikd\Desktop\my awsome programe\bin\Debug\net6.0\my awsome programe.runtimeconfig.json
+C:\Users\erikd\Desktop\my awsome programe\bin\Debug\net6.0\my awsome programe.dll
+C:\Users\erikd\Desktop\my awsome programe\bin\Debug\net6.0\my awsome programe.pdb
+C:\Users\erikd\Desktop\my awsome programe\obj\Debug\net6.0\my awsome programe.csproj.AssemblyReference.cache
+C:\Users\erikd\Desktop\my awsome programe\obj\Debug\net6.0\my awsome programe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikd\Desktop\my awsome programe\obj\Debug\net6.0\my awsome programe.AssemblyInfoInputs.cache
+C:\Users\erikd\Desktop\my awsome programe\obj\Debug\net6.0\my awsome programe.AssemblyInfo.cs
+C:\Users\erikd\Desktop\my awsome programe\obj\Debug\net6.0\my awsome programe.csproj.CoreCompileInputs.cache
+C:\Users\erikd\Desktop\my awsome programe\obj\Debug\net6.0\my awsome programe.dll
+C:\Users\erikd\Desktop\my awsome programe\obj\Debug\net6.0\refint\my awsome programe.dll
+C:\Users\erikd\Desktop\my awsome programe\obj\Debug\net6.0\my awsome programe.pdb
+C:\Users\erikd\Desktop\my awsome programe\obj\Debug\net6.0\my awsome programe.genruntimeconfig.cache
+C:\Users\erikd\Desktop\my awsome programe\obj\Debug\net6.0\ref\my awsome programe.dll
